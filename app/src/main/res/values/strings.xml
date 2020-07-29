@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Black_Forest</string>
+
+    <!--Fragment name-->
+    <string name="fragment_edit_profile">Edit Profile</string>
+    <string name="fragment_signOut">Sign Out</string>
+    <string name="fragment_Profile">Profile</string>
+    <!--Firebase Database-->
+    <string name="db_name_users">users</string>
+    <string name="db_name_user_account_settings">user_account_settings</string>
+    <string name="field_username">username</string>
+    <string name="field_display_name">display_name</string>
+    <string name="field_website">website</string>
+    <string name="field_description">description</string>
+    <string name="field_phone_number">phone_number</string>
+    <!--INTENT-->
+    <string name="calling_activity">Calling_Activity</string>
+    <string name="profile_activity">Profile_Activity</string>
+    <string name="gallery">GALLERY</string>
+    <string name="photos">PHOTOS</string>
+    <string name="camera">CAMERA</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="string_next">Next</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="string_share">Share</string>
+    <string name="db_name_user_photos">User Photos</string>
+    <string name="db_name_photos">Photos</string>
+    <string name="new_photo">New Photo</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="write_a_caption">Write a Caption</string>
+    <string name="selected_bitmap">selected_bitmap</string>
+    <string name="return_to_fragment">return_to_fragment</string>
+
+</resources>
